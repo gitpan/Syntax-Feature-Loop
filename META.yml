@@ -9,7 +9,7 @@ configure_requires:
   Module::Build: 0.3614
   Software::License::CC0_1_0: 0
 dynamic_config: 1
-generated_by: 'Module::Build version 0.38, CPAN::Meta::Converter version 2.120921'
+generated_by: 'Module::Build version 0.38, CPAN::Meta::Converter version 2.110440'
 license: unrestricted
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -18,7 +18,7 @@ name: Syntax-Feature-Loop
 provides:
   Syntax::Feature::Loop:
     file: lib/Syntax/Feature/Loop.pm
-    version: v1.4.0
+    version: v1.6.0
 requires:
   Devel::CallParser: 0
   Lexical::Sub: 0
@@ -31,4 +31,4 @@ resources:
   homepage: http://search.cpan.org/dist/Syntax-Feature-Loop/
   license: http://creativecommons.org/publicdomain/zero/1.0/
   repository: http://github.com/ikegami/perl-Syntax-Feature-Loop
-version: v1.4.0
+version: v1.6.0
